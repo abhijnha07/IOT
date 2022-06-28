@@ -15,5 +15,5 @@ https://wokwi.com/projects/335071206921208402 - UltraSonic Sensor</br>
 https://wokwi.com/projects/335071463215202900 - UltraSonic Sensor(extra)</br>
 https://wokwi.com/projects/335073264458007124 - Buzzer + UltraSonic Sensor</br>
 https://wokwi.com/projects/335075055329346132 - Buzzer + UltraSonic Sensor(Varying Instensity)</br>
-https://wokwi.com/projects/335698029159907924 - Buzzer + Ultrasonic Sensor + LED
-https://wokwi.com/projects/335701186493547091 - Potentiometer + LED
+https://wokwi.com/projects/335698029159907924 - Buzzer + Ultrasonic Sensor + LED</br>
+https://wokwi.com/projects/335701186493547091 - Potentiometer + LED</br>
