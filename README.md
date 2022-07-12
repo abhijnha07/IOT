@@ -21,3 +21,4 @@ https://wokwi.com/projects/335701186493547091 - Potentiometer + LED</br>
 
 ESP32</br>
 https://wokwi.com/projects/336966830711112275 - LED</br>
+https://wokwi.com/projects/336967978479256147 - 3 LED</br>
