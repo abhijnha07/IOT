@@ -17,6 +17,7 @@ https://wokwi.com/projects/335073264458007124 - Buzzer + UltraSonic Sensor</br>
 https://wokwi.com/projects/335075055329346132 - Buzzer + UltraSonic Sensor(Varying Instensity)</br>
 https://wokwi.com/projects/335698029159907924 - Buzzer + Ultrasonic Sensor + LED</br>
 https://wokwi.com/projects/335701186493547091 - Potentiometer + LED</br>
+https://wokwi.com/projects/337602684471214674 - DHT22(Humidity and Temperature sensor</br>
 
 
 ESP32</br>
