@@ -28,7 +28,8 @@ https://wokwi.com/projects/336967978479256147 - 3 LED</br>
  
  
   //HARDWARE
-   ULTRASONIC_SENSOR
+   
+       ULTRASONIC_SENSOR
 
        const int trigPin = 13; //D7
        const int echoPin = 12; //D6
