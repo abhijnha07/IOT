@@ -168,23 +168,23 @@ https://wokwi.com/projects/336967978479256147 - 3 LED</br>
        }
      delay(100);
      }
-</br>
-</br>
-</br>
-     LDR
-     const int ldrPin=A0;
-     void setup() {
-       Serial.begin(9600);
-       pinMode(ldrPin,INPUT);
-     }
-     void loop() {
-       int rawData = analogRead(ldrPin);   
-       Serial.println(rawData);
-       delay(1000);
-     }
-</br>
-</br>
-</br>
+    </br>
+    </br>
+    </br>
+         LDR
+         const int ldrPin=A0;
+         void setup() {
+           Serial.begin(9600);
+           pinMode(ldrPin,INPUT);
+         }
+         void loop() {
+           int rawData = analogRead(ldrPin);   
+           Serial.println(rawData);
+           delay(1000);
+         }
+    </br>
+    </br>
+    </br>
 
      LDR_LED
 
