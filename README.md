@@ -142,67 +142,71 @@ https://wokwi.com/projects/336967978479256147 - 3 LED</br>
      }
  
  
- IR_LED
- int ir=D7;
-int led=D5;
-void setup() {
-  // put your setup code here, to run once:
-  pinMode(ir,INPUT);
-    pinMode(led,OUTPUT);
-    Serial.begin(9600);
-    
-}
+    IR_LED
+      int ir=D7;
+     int led=D5;
+     void setup() {
+       // put your setup code here, to run once:
+       pinMode(ir,INPUT);
+         pinMode(led,OUTPUT);
+         Serial.begin(9600);
 
-void loop() {
-  // put your main code here, to run repeatedly:
-  int irvalue=digitalRead(ir);
-  if(irvalue==LOW)
-  {
-    Serial.println("LOW");
-    digitalWrite(led,HIGH);
-  }
-  else
-  {
-    Serial.println("HIGH");
-    digitalWrite(led,LOW);
-  }
-delay(100);
-}
+     }
 
-LDR
-const int ldrPin=A0;
-void setup() {
-  Serial.begin(9600);
-  pinMode(ldrPin,INPUT);
-}
-void loop() {
-  int rawData = analogRead(ldrPin);   
-  Serial.println(rawData);
-  delay(1000);
-}
-  
-  
-LDR_LED
+     void loop() {
+       // put your main code here, to run repeatedly:
+       int irvalue=digitalRead(ir);
+       if(irvalue==LOW)
+       {
+         Serial.println("LOW");
+         digitalWrite(led,HIGH);
+       }
+       else
+       {
+         Serial.println("HIGH");
+         digitalWrite(led,LOW);
+       }
+     delay(100);
+     }
+</br>
+</br>
+</br>
+     LDR
+     const int ldrPin=A0;
+     void setup() {
+       Serial.begin(9600);
+       pinMode(ldrPin,INPUT);
+     }
+     void loop() {
+       int rawData = analogRead(ldrPin);   
+       Serial.println(rawData);
+       delay(1000);
+     }
+</br>
+</br>
+</br>
 
-int ldr=A0;//Set A0(Analog Input) for LDR.
-int value=0;
-int led=D1;
-void setup() {
-Serial.begin(9600);
-pinMode(led,OUTPUT);
-}
+     LDR_LED
 
-void loop() {
-value=analogRead(ldr);//Reads the Value of LDR(light).
-Serial.println("LDR value is :");//Prints the value of LDR to Serial Monitor.
-Serial.println(value);
-if(value<50)
-  {
-    digitalWrite(led,HIGH);//Makes the LED glow in Dark.
-  }
-  else
-  {
-    digitalWrite(led,LOW);//Turns the LED OFF in Light.
-  }
-  delay(1000);
-}
+     int ldr=A0;//Set A0(Analog Input) for LDR.
+     int value=0;
+     int led=D1;
+     void setup() {
+     Serial.begin(9600);
+     pinMode(led,OUTPUT);
+     }
+
+     void loop() {
+     value=analogRead(ldr);//Reads the Value of LDR(light).
+     Serial.println("LDR value is :");//Prints the value of LDR to Serial Monitor.
+     Serial.println(value);
+     if(value<50)
+       {
+         digitalWrite(led,HIGH);//Makes the LED glow in Dark.
+       }
+       else
+       {
+         digitalWrite(led,LOW);//Turns the LED OFF in Light.
+       }
+       delay(1000);
+     }
