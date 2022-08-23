@@ -28,6 +28,7 @@ https://wokwi.com/projects/340776926585029204 - LDR_LED</br>
 ESP32</br>
 https://wokwi.com/projects/336966830711112275 - LED</br>
 https://wokwi.com/projects/336967978479256147 - 3 LED</br>
+https://wokwi.com/projects/340779619162522195 - IR_LED</br>
  
  
   //HARDWARE
