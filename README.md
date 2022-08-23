@@ -22,6 +22,7 @@ https://wokwi.com/projects/337602684471214674 - DHT22(Humidity and Temperature s
 https://wokwi.com/projects/337604296859189842 - DHT22 + LCD(Humidity and Temperature sensor)</br>
 https://wokwi.com/projects/340775764469219922 - LED_CHASER</br>
 https://wokwi.com/projects/340776572602548818 - LDR </br>
+https://wokwi.com/projects/340776926585029204 - LDR_LED</br>
 
 
 ESP32</br>
