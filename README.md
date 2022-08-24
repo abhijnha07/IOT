@@ -30,7 +30,8 @@ ESP32</br>
 https://wokwi.com/projects/336966830711112275 - LED</br>
 https://wokwi.com/projects/336967978479256147 - 3 LED</br>
 https://wokwi.com/projects/340880463446934098 - RGB </br>
-https://wokwi.com/projects/340882358612787796 - LCD </br>
+https://wokwi.com/projects/340882358612787796 - LCD </br> 
+https://wokwi.com/projects/340886369600537172 - Servo Motor + Pushbutton</br>
 
  
  
