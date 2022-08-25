@@ -38,8 +38,8 @@ https://wokwi.com/projects/340890489300451922 - Buzzer + UltraSonic Sensor</br>
 https://wokwi.com/projects/340890896679567955 - Potentiometer + LED</br>
 https://wokwi.com/projects/340892440485429842 - DHT22</br>
 https://wokwi.com/projects/340893919446303316 - LED CHASER </br>
-https://wokwi.com/projects/340776572602548818 - LDR</br>
-
+https://wokwi.com/projects/340936317213868626 - LDR</br>
+https://wokwi.com/projects/340936847717827156 - LDR + LED</br>
 
 
  
