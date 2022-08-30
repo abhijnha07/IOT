@@ -40,7 +40,7 @@ https://wokwi.com/projects/340892440485429842 - DHT22</br>
 https://wokwi.com/projects/340893919446303316 - LED CHASER </br>
 https://wokwi.com/projects/340936317213868626 - LDR</br>
 https://wokwi.com/projects/340936847717827156 - LDR + LED</br>
-
+https://wokwi.com/projects/341409508737679955 - 3 LED + Sliding potentiometer
 
  
  
