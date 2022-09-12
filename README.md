@@ -25,6 +25,10 @@ https://wokwi.com/projects/340776572602548818 - LDR </br>
 https://wokwi.com/projects/340776926585029204 - LDR_LED</br>
 https://wokwi.com/projects/340779619162522195 - IR_LED</br>
 
+https://wokwi.com/projects/342586116652663380 - Seven_Segment</br>
+https://wokwi.com/projects/342587401518973522 - Joystick + DotMatrix</br>
+https://wokwi.com/projects/342588998566281812 - UltraSonic Sensor + LCD</br>
+
 
 ESP32</br>
 https://wokwi.com/projects/336966830711112275 - LED</br>
